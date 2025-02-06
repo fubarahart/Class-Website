@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(168, 247, 247);
+}
+
+li {
+    font-style: italic;
+    font-size: 35px;
+    font-weight: bold;
+}
+
